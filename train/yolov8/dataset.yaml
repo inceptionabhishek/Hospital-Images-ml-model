@@ -1,0 +1,17 @@
+train: /content/yolo_data/images/train
+val: /content/yolo_data/images/val
+
+nc: 10
+names:
+  [
+    "Anesthesia machines",
+    "Defibrillators",
+    "Hospital beds",
+    "MRI machines",
+    "Oxygen tanks",
+    "Stretchers",
+    "Ultrasound machines",
+    "vaccume cleaner",
+    "wheelchair",
+    "X-ray machines",
+  ]
