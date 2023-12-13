@@ -1,0 +1,89 @@
+data/obj_train_data/3d rendering C-Arm scan machine with surgery robot  Stock Illustration (1).jpg
+data/obj_train_data/3d rendering C-Arm scan machine with surgery robot  Stock Illustration (2).jpg
+data/obj_train_data/3d rendering C-Arm scan machine with surgery robot  Stock Illustration.jpg
+data/obj_train_data/3d rendering hospital surgery room with C-Arm machine and surgery robot  Stock Illustration.jpg
+data/obj_train_data/3d rendering surgery room with robotic surgery and empty bed Stock Illustration.jpg
+data/obj_train_data/Asian doctor and an assistant in the operating room for surgical venous vascular surgery clinic in hospital. Stock Photo.jpg
+data/obj_train_data/Biracial female doctor and happy girl patient smiling in hospital bed Stock Photo.jpg
+data/obj_train_data/Blurred images of hospital patients room with adjustable beds, blue sofas. Spacious rooms without people. Stock Photo.jpg
+data/obj_train_data/Bright lights at the end the hospital corridor. The concept of life and death. Stock Photo.jpg
+data/obj_train_data/Close up of surgeon in sterile gloves getting ready medical instruments. Female patient with marks on skin lying on medical bed while doctor preparing tools. Concept of plastic surgery preparation. Stock Photo.jpg
+data/obj_train_data/Doctors, team and hurry with bed in hospital for medical emergency, surgery operation and first aid help. Healthcare group running fast in rush, motion blur and urgent patient assessment in clinic Stock Photo.jpg
+data/obj_train_data/Empty bed in a hospital room awaits treatment from the doctor. Patient room background, insurance concept Stock Photo.jpg
+data/obj_train_data/Empty hospital hallway with bed Stock Photo.jpg
+data/obj_train_data/Equipment and medical devices in hybrid operating room  blue filter , Surgical procedures , the operating room of the Future  Stock Photo.jpg
+data/obj_train_data/Female Doctor Talking To Male Patient In Hospital Bed Stock Photo.jpg
+data/obj_train_data/Free photo beautiful woman at a family doctor measures blood pressure with a tonometer.jpg
+data/obj_train_data/Free photo close up doctor and patient hands.jpg
+data/obj_train_data/Free photo close up patient monitoring blood pressure.jpg
+data/obj_train_data/Free photo covid recovery center female doctor checking elder patient's blood pressure with aparatus.jpg
+data/obj_train_data/Free photo dentist during surgery at the dental clinic.jpg
+data/obj_train_data/Free photo dentists choose equipment on the table..jpg
+data/obj_train_data/Free photo doctor hands checking patient health.jpg
+data/obj_train_data/Free photo doctors in operating room performing rhinoplasty.jpg
+data/obj_train_data/Free photo elder covid recovery center female doctor holding blood pressure monitor.jpg
+data/obj_train_data/Free photo health care doctor help concept.jpg
+data/obj_train_data/Free photo health medical claim form concept.jpg
+data/obj_train_data/Free photo high angle doctor using tensiometer.jpg
+data/obj_train_data/Free photo high angle of covid recovery center female doctor checking elder patient's blood pressure.jpg
+data/obj_train_data/Free photo male doctor and old man on a wheelchair isolated on a white background (1).jpg
+data/obj_train_data/Free photo male doctor hands measuring tension to a patient.jpg
+data/obj_train_data/Free photo medical electronic tonometer on marble table..jpg
+data/obj_train_data/Free photo several surgical instruments lie on a white table.jpg
+data/obj_train_data/Free photo side view doctor checking patient (1).jpg
+data/obj_train_data/Free photo side view doctor checking patient.jpg
+data/obj_train_data/Free photo side view doctor using mechanical tensiometer.jpg
+data/obj_train_data/Free photo smiley covid recovery center female doctor checking elder patient's blood pressure.jpg
+data/obj_train_data/Free photo team of surgeons performing operation in operation theater.jpg
+data/obj_train_data/Hospital Bed Isolated. 3D rendering Stock Illustration.jpg
+data/obj_train_data/Hospital Bed. Mobile medical Bed under the white background.Electric Variable Height Bed. Medical Equipment. Stock Photo.jpg
+data/obj_train_data/Hospital Ward_ Friendly Doctor Talks to Beautiful Senior Female Patient Resting in Bed, Explains Test Results, Gives Recovery Advice. Physician Talks to Old Lady Recovering after Successful Surgery Stock Photo.jpg
+data/obj_train_data/Hospital Ward_ Friendly Doctor Talks to Smiling Young Woman Resting in Bed, Fully Recovering after Sickness. Physician Uses Tablet Compu.jpg
+data/obj_train_data/Hospital Ward_ Handsome Young Boy Resting in Bed with Caring Mother Visits to Support Him, Friendly Doctor, Surgeon, Nurse Talks, Does H.jpg
+data/obj_train_data/Hospital Ward_ Professional Black Head Nurse Wearing Face Mask Does Checkup of Patient's Vitals, Checking Heart Rate Computer, Intraveno.jpg
+data/obj_train_data/Hospital bed isolated on white background.Wheeled and movable.3d rendering. Stock Illustration.jpg
+data/obj_train_data/In Dhaka, Bangladesh; at 2018-03-31 16_05_05.006; An empty hospital general ward also known as ICU, HCU, CCU. Editorial Stock Photo.jpg
+data/obj_train_data/Interior view of operating room Stock Photo.jpg
+data/obj_train_data/Mature woman recovering from illness while lying on hospital bed with iv drip in hand. Portrait of old hospitalized patient recovering a.jpg
+data/obj_train_data/Modern equipment in operating room. Medical devices for neurosurgery. Background Stock Photo.jpg
+data/obj_train_data/Modern mobile medical bed isolated on white Stock Photo.jpg
+data/obj_train_data/Modern surgery light in emergency room. Sterile surgical lamps in operation ward. Stock Photo.jpg
+data/obj_train_data/Operating Room in A Hospital Stock Photo.jpg
+data/obj_train_data/Photo a device for measuring pressure a tonometer on a black medical background headache treatment of h.jpg
+data/obj_train_data/Photo a surgeon's team in uniform performs an operation on a patient at a cardiac surgery clinic. modern medicine, a professional team of surgeons, health..jpg
+data/obj_train_data/Photo doctor or nurse checking patient's blood pressure with blood pressure monitor.jpg
+data/obj_train_data/Photo doctor performs minimallyinvasive surgeon using a robotic device minimal invasive surgical innovation medical robot surgery with endoscopy.jpg
+data/obj_train_data/Photo doctor's hand with latex gloves taking stainless tweezers to help people with patience.jpg
+data/obj_train_data/Photo doctors wearing equipment in operating room (1).jpg
+data/obj_train_data/Photo large spacious operating board with a large amount of light with modern equipment for various complex operations operating table lamps ventilator.jpg
+data/obj_train_data/Photo laser vision correction. a patient and team of surgeons in the operating room during ophthalmic surgery. eyelid speculum. lasik treatment. (1).jpg
+data/obj_train_data/Photo medical team performing operation. group of surgeon at work in operating theatre toned in blue. (1).jpg
+data/obj_train_data/Photo medical team performing operation. group of surgeon at work in operating theatre toned in blue..jpg
+data/obj_train_data/Photo orthostatic blood pressure woman lying on back and measuring blood pressure on her arm.jpg
+data/obj_train_data/Photo professional doctor and medical staff working at the hospital. double exposure several surgeons surrounding patient on operating table during their work..jpg
+data/obj_train_data/Photo senior woman taking measures blood pressure at home self care of elderly health (1).jpg
+data/obj_train_data/Photo the doctor measures pressure in the patient.jpg
+data/obj_train_data/Photo the nurse measures the patient's blood pressure. selective focus.jpg
+data/obj_train_data/Recovery Room with bed and comfortable medical equipped in a hospital. Mattress with white cloth Stock Photo.jpg
+data/obj_train_data/The Patient Bed 3D Illustration Stock Illustration.jpg
+data/obj_train_data/a book with a stethoscope on top of it.jpg
+data/obj_train_data/a jar of pills sitting on top of a table.jpg
+data/obj_train_data/a person in a blue glove holding a medical instrument.jpg
+data/obj_train_data/a pile of pills sitting next to each other on top of a table.jpg
+data/obj_train_data/a variety of pills and capsules on a pink background.jpg
+data/obj_train_data/a woman in a white shirt holding a stethoscope.jpg
+data/obj_train_data/black and gray stethoscope.jpg
+data/obj_train_data/blue and white tablet in container.jpg
+data/obj_train_data/doctor holding red stethoscope.jpg
+data/obj_train_data/female-medical-practitioner-reassuring-a-patient.jpg
+data/obj_train_data/green and blue medication pill.jpg
+data/obj_train_data/heavy-industry-manufacturing-factory-scientist-in-sterile-coverall-walking-with-laptop.jpg
+data/obj_train_data/laptop-stethoscope-and-doctor-writing-in-notebook-for-research-planning-or-medical-tech.jpg
+data/obj_train_data/man-doing-physical-therapy-exercises-using-a-stretch-band.jpg
+data/obj_train_data/person holding silver blister pack.jpg
+data/obj_train_data/pills and a glass of water on a purple surface.jpg
+data/obj_train_data/pink and white medication pill.jpg
+data/obj_train_data/white and black dice on orange surface.jpg
+data/obj_train_data/white and black earbuds on white textile.jpg
+data/obj_train_data/white and blue medication pill blister pack.jpg
+data/obj_train_data/white and blue medication pill on pink textile.jpg
